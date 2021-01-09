@@ -1,2 +1,2 @@
 # MUAON2JSON
-Muaon to Json using flex-bison-llvm
+Muaon to Json using Antlr
